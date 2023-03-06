@@ -1,0 +1,26 @@
+img {
+    width: 350px;
+    border: 10px groove rgb(74, 65, 42);
+    margin: auto;
+}
+
+p {
+    background-color: yellow;
+    width: 40%;
+    margin: 10px auto;
+}
+
+div {
+    background-color: lightblue;
+    width: 100px;
+    height: 40px;
+    border: 1px groove black;
+}
+
+.tobbsoros {
+    display: block;
+}
+
+.egysoros {
+    display: inline;
+}
